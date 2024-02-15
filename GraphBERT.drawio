@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-13T10:46:32.302Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="er1KR3aABsnuwGfL7RZI" version="23.1.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-15T16:44:26.578Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="E49EBGz2UbPIvNkPyoYD" version="23.1.3" type="github" pages="2">
   <diagram id="JAlaqMLf5dJACLgwQg_U" name="Page-2">
     <mxGraphModel dx="1362" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -304,10 +304,10 @@
         <mxCell id="Jryg0pWDH-_fSKKlzO3I-160" value="VGCN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="165" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Scj2WVY_AbtpIeesB7fd-1" value="Real_News_feature" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="Scj2WVY_AbtpIeesB7fd-1" value="R_News_feature" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="640" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Scj2WVY_AbtpIeesB7fd-2" value="Fake_News_feature" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Scj2WVY_AbtpIeesB7fd-2" value="F_News_feature" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="640" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Scj2WVY_AbtpIeesB7fd-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jryg0pWDH-_fSKKlzO3I-160" target="Scj2WVY_AbtpIeesB7fd-1">
